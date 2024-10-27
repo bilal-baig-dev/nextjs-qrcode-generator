@@ -5,7 +5,7 @@
 ```markdown
 MIT License
 
-Copyright (c) 2024 Sniply
+Copyright (c) 2024 nextjs-qrcode-generator
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
